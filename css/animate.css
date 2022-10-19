@@ -2836,6 +2836,8 @@ img {
 @media(max-width: 767px)  {
   #popup_content{
     height: fit-content;
+    width: 80%;
+    left: 10%;
   }
   .popup_image{
     visibility: hidden;

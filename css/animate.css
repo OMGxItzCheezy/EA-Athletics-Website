@@ -2808,12 +2808,14 @@ img {
 }
 
 #popup_content {
-  width: 50%;
-  height: fit-content;
-  padding: 20px;
   position: relative;
   top: 15%;
-  left: 25%;
+  left: 35%;
+  width: 400px;
+  height: 70%;
+  align-items: center;
+
+  
   background: black;
   border: 10px solid #c11325;
   color: white;
